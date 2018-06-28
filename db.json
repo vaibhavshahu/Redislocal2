@@ -1,58 +1,11 @@
 {
   "posts": [
-    
-      {
-    "carriers": [
-        {
-            "carrierCode": "UPSC",
-            "description": "UPS GROUND COMM",
-            "shippingRate": 13.58
-        },
-        {
-            "carrierCode": "UPS2",
-            "description": "UPS 2NDDAYAIRPKG",
-            "shippingRate": 26.56
-        },
-        {
-            "carrierCode": "UPS1",
-            "description": "UPS NXDAYPKG",
-            "shippingRate": 64.93
-        },
-        {
-            "carrierCode": "",
-            "description": "",
-            "shippingRate": 0
-        },
-        {
-            "carrierCode": "",
-            "description": "",
-            "shippingRate": 0
-        },
-        {
-            "carrierCode": "",
-            "description": "",
-            "shippingRate": 0
-        }
-    ],
-    "customerOrderTaxes": [
-        {
-            "taxCode": "",
-            "taxDescription": "",
-            "taxRate": 0,
-            "taxAmount": 0.06,
-            "taxAmountDisplay": ".06",
-            "sortOrder": 0
-        }
-    ],
-    "success": true,
-    "messages": {
-        "code": "",
-        "description": "",
-        "trace": ""
-    }
-
+    {
+      "id": 1,
+      "title": "hello"
     }
   ],
   "profile": {
-    "name": "typicod
+    "name": "typicode"
+  }
 }
