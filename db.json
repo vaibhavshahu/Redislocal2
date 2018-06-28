@@ -1,14 +1,11 @@
 {
   "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    },
-    {
+   {
             "carrierCode": "UPSC",
             "description": "UPS GROUND COMM",
             "shippingRate": 13.58
         }
+   
   ],
   "profile": {
     "name": "typicode"
